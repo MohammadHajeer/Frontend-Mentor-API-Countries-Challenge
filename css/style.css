@@ -203,6 +203,7 @@ ul {
   overflow: hidden;
   transition: 0.3s;
   opacity: 0;
+  z-index: 999;
 }
 .body .container .search .search-by-region .show-hide {
   height: 250px;
